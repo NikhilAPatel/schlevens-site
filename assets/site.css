@@ -1,0 +1,106 @@
+:root {
+  --felt: #17573c;
+  --felt-deep: #0d3626;
+  --panel: #0b2e20;
+  --line: #e9dfbc;
+  --rule: rgba(233, 223, 188, 0.22);
+  --gold: #f1c04e;
+  --fg: #f3edd8;
+  --muted: #a8c3b3;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--felt-deep);
+  color: var(--fg);
+  font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Avenir Next", "Segoe UI", Roboto, sans-serif;
+}
+
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 40px 16px 64px;
+}
+
+.eyebrow {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+h1,
+h2 {
+  font-family: Rockwell, "Roboto Slab", Georgia, serif;
+  font-weight: 700;
+  color: var(--line);
+  line-height: 1.15;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 38px;
+}
+
+h2 {
+  margin: 0 0 10px;
+  font-size: 22px;
+}
+
+.updated {
+  margin: 0 0 28px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+section {
+  margin-bottom: 14px;
+  padding: 20px;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 16px;
+}
+
+section > :last-child {
+  margin-bottom: 0;
+}
+
+p,
+ul {
+  margin: 0 0 12px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+a {
+  color: var(--gold);
+  text-underline-offset: 3px;
+}
+
+a:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+strong {
+  color: var(--line);
+}
+
+footer {
+  margin-top: 24px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+footer a {
+  margin-right: 16px;
+}
