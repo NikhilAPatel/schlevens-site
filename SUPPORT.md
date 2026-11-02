@@ -4,9 +4,9 @@ Answers to common questions, and how to reach us.
 
 ## Contact
 
-Found a bug or have a question? [Open an issue on GitHub](https://github.com/NikhilAPatel/schlevens-site/issues/new). Please include your device and iOS version.
+Found a bug or have a question? Email [patel.a.nikhil@gmail.com](mailto:patel.a.nikhil@gmail.com). Please include your device and iOS version.
 
-Issues are public, so please don't include personal information.
+You can also [open an issue on GitHub](https://github.com/NikhilAPatel/schlevens-site/issues/new). Issues are public, so please don't include personal information.
 
 ## How do I roll?
 
