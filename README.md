@@ -1,8 +1,8 @@
-# Schlevens site
+# Schlevens
 
-The public privacy policy and support pages for the Schlevens iOS app, served by GitHub Pages.
+The public privacy policy and support pages for the Schlevens iOS app.
 
-- [Privacy policy](https://nikhilapatel.github.io/schlevens-site/privacy/)
-- [Support](https://nikhilapatel.github.io/schlevens-site/support/)
+- [Privacy policy](PRIVACY.md)
+- [Support](SUPPORT.md)
 
 Found a problem with the app? [Open an issue](https://github.com/NikhilAPatel/schlevens-site/issues/new).
