@@ -1,4 +1,4 @@
-# Schlevens support
+# Slevens support
 
 Answers to common questions, and how to reach us.
 
@@ -6,15 +6,15 @@ Answers to common questions, and how to reach us.
 
 Found a bug or have a question? Email [patel.a.nikhil@gmail.com](mailto:patel.a.nikhil@gmail.com). Please include your device and iOS version.
 
-You can also [open an issue on GitHub](https://github.com/NikhilAPatel/schlevens-site/issues/new). Issues are public, so please don't include personal information.
+You can also [open an issue on GitHub](https://github.com/NikhilAPatel/slevens-site/issues/new). Issues are public, so please don't include personal information.
 
 ## How do I roll?
 
-Tap the dice, press **Roll the dice**, or shake your device. A total of seven, a total of eleven, or any doubles is a Schlevens, and it shows in gold.
+Tap the dice, press **Roll the dice**, or shake your device. A total of seven, a total of eleven, or any doubles is a Slevens, and it shows in gold.
 
 ## How do I change the odds?
 
-Tap the gear button, then **Open Custom odds**. You can also press and hold the Schlevens title on the main screen. Odds run from fair up to a Schlevens on every roll, in 5% steps, overall or separately for sevens, elevens and doubles.
+Tap the gear button, then **Open Custom odds**. You can also press and hold the Slevens title on the main screen. Odds run from fair up to a Slevens on every roll, in 5% steps, overall or separately for sevens, elevens and doubles.
 
 The dice start fair, and Custom odds is free. It's for fun, not for games played for money.
 
@@ -22,7 +22,7 @@ The dice start fair, and Custom odds is free. It's for fun, not for games played
 
 Tap the gear button and look at **Custom odds**. It shows the odds in use right now. Open it and choose **Fair** to go back to true odds.
 
-Fair dice roll a Schlevens 38.9% of the time, so streaks and dry spells both happen.
+Fair dice roll a Slevens 38.9% of the time, so streaks and dry spells both happen.
 
 ## I can't hear anything
 

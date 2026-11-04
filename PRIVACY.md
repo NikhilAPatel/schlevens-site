@@ -1,10 +1,10 @@
-# Schlevens privacy policy
+# Slevens privacy policy
 
 Last updated November 2, 2026
 
 ## The short version
 
-Schlevens does not collect, share or sell any personal information. It has no accounts, ads, analytics or tracking, and it doesn't connect to the internet.
+Slevens does not collect, share or sell any personal information. It has no accounts, ads, analytics or tracking, and it doesn't connect to the internet.
 
 ## What stays on your device
 
